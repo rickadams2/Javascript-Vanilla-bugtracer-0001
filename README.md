@@ -16,7 +16,8 @@ See techlist above.
 ### Todo
 
 #### project improvements 
-1. Add NoSQL database to project 
+1. Add NoSQL database to project
+ - Firebase 
 2. Add  CRUD options
 3. Include Slack-repo for internal use 
 
