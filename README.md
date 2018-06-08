@@ -11,7 +11,12 @@ See techlist above.
  ![enter image description here](https://raw.githubusercontent.com/rickadams2/Javascript-Vanilla-bugtracer-0001/master/shot3.png) 
  
 **Improvements:** 
- 4. Store bugs in a database instead of local storage
- 5. Add  CRUD options
 
+
+### Todo
+
+#### project improvements 
+1. Add NoSQL database to project 
+2. Add  CRUD options
+3. Include Slack-repo for internal use 
 
